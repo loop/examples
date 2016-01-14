@@ -19,6 +19,7 @@ body {
 }
 .logo {
    content:url('assets/images/CROPPED_LOGO.png');
+   padding-bottom: 50px;
 }​
 p {
     margin: 0px;
@@ -33,7 +34,7 @@ p {
 }
 .social {
     padding: 10px;
-    padding-top: 100px;
+    padding-top: 10px;
 }
 .underline {
     color: red;
@@ -80,7 +81,7 @@ a.class4 {
     clear: both;
 }
 .grid-pad {
-    padding-top: 20px;
+    padding-top: 0px;
     padding-left: 5px;
     /* grid-space to left */
     
