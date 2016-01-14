@@ -17,6 +17,9 @@ body {
     font-family: 'gt_walsheim_regular', serif;
     font-size: 20px;
 }
+.logo {
+   content:url('assets/images/CROPPED_LOGO.png');
+}​
 p {
     margin: 0px;
     padding: 0px;
@@ -79,6 +82,14 @@ a.class4 {
 .grid-pad {
     padding-top: 20px;
     padding-left: 5px;
+    /* grid-space to left */
+    
+    padding-right: 0;
+    /* grid-space to right: (grid-space-left - column-space) e.g. 20px-20px=0 */
+}
+.logo-grid-pad {
+    padding-top: 0px;
+    padding-left: 15px;
     /* grid-space to left */
     
     padding-right: 0;
