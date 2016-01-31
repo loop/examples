@@ -21,7 +21,9 @@ body {
 }
 
 .logo {
-    content: url('assets/images/CROPPED_LOGO.png');
+    height: 120px;
+    width: 100px;
+    content: url('assets/images/logo.jpg');
     padding-bottom: 50px;
 }
 
