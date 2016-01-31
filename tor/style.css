@@ -21,7 +21,7 @@ body {
 }
 
 .logo {
-    height: 120px;
+    height: 125px;
     width: 100px;
     content: url('assets/images/logo.jpg');
     padding-bottom: 50px;
